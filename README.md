@@ -8,5 +8,8 @@ This repository contains MATLAB R2024a codes for actuator placement optimization
 - F_act_dg_over1.m: Function for optimizing actuator locations
 - F_norm_count2.m: Function for computing the 2 norm of the terminal output
 
+## Note
+It is needed to download "herdif.m" with relating functions from https://appliedmaths.sun.ac.za/~weideman/research/differ.html and put them inside a directory named DMSUITE to run the main codes.
+
 ## How to cite
 Please cite the relevant paper which will be published soon.
