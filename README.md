@@ -3,5 +3,10 @@ This repository contains MATLAB R2024a codes of determinant-based greedy algorit
 
 ## Codes
 - P_act_opt_one_initial_cond.m: Main code to optimize actuator locations and compute the repsponse for one initial condition
-- P_act_opt_multi_initial_cond.m: Main code to optimize actuator locations and evaluate its effectiveness with multiple initial conditions
-- F_act_dg_under1.m: 
+- P_act_opt_multi_initial_cond.m: Main code to optimize actuator locations and compute the repsponses for multiple initial conditions
+- F_act_dg_under1.m: Function for optimizing actuator locations
+- F_act_dg_over1.m: Function for optimizing actuator locations
+- F_norm_count2.m: Function for computing the 2 norm of the terminal output
+
+## How to cite
+Please cite the relevant paper which will be published soon.
