@@ -1,5 +1,5 @@
 # Determinant-based-Greedy-Algorithm-for-Actuator-Selection-in-a-Linear-Impulsive-Control-System
-This repository contains MATLAB R2024a codes of determinant-based greedy algorithm for actuator placement optimization in a linear impulsive control system.
+This repository contains MATLAB R2024a codes for actuator placement optimization in a linear impulsive control system by determinant-based greedy algorithm.
 
 ## Codes
 - P_act_opt_one_initial_cond.m: Main code to optimize actuator locations and compute the repsponse for one initial condition
