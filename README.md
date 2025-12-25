@@ -12,4 +12,5 @@ This repository contains MATLAB R2024a codes for actuator placement optimization
 It is needed to download "herdif.m" with relating functions from https://appliedmaths.sun.ac.za/~weideman/research/differ.html and put them inside a directory named DMSUITE to run the main codes.
 
 ## How to cite
-Please cite the relevant paper which will be published soon.
+Please cite the following paper.
+M. Watanabe, Y. Sasaki, T. Nagata, K. Yamada, D. Tsubakino, J. Ito, and T. Nonomura, "Actuator placement optimization in a linear impulsive control system by determinant-based greedy algorithm", IEEE Access, Vol. 13, pp. 207581-207595, 2025, doi: 10.1109/ACCESS.2025.3641758. 
